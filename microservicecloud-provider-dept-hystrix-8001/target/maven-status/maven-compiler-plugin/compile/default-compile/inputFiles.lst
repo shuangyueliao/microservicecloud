@@ -1,0 +1,6 @@
+A:\IdeaProjects\springCloud2018\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\controller\DeptHystrix.java
+A:\IdeaProjects\springCloud2018\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\service\DeptService.java
+A:\IdeaProjects\springCloud2018\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\DeptProvider8001_Hystrix_App.java
+A:\IdeaProjects\springCloud2018\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\dao\DeptDao.java
+A:\IdeaProjects\springCloud2018\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\service\impl\DeptServiceImpl.java
+A:\IdeaProjects\springCloud2018\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\controller\DeptController.java
